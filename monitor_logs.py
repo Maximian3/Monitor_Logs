@@ -9,7 +9,7 @@ import signal
 import sys
 
 # Configuration
-LOG_DIR = "/Users/smx/Documents/Sarafonov/2024/New Stady/Scientific Programming/test/logs"  # Log files directory
+LOG_DIR = "/Users/Documents/2024/New Stady/Scientific Programming/test/logs"  # Log files directory
 SUSPICIOUS_THRESHOLD = 100  # Request threshold for suspicious activity
 POLL_INTERVAL = 10  # Log check interval in seconds
 

@@ -1,0 +1,9 @@
+[Tue Jan 14 14:54:44.442278 2025] [mpm_event:notice] [pid 3593:tid 256283379781664] AH00489: Apache/2.4.58 (Ubuntu) OpenSSL/3.0.13 configured -- resuming normal operations
+[Tue Jan 14 14:54:44.442327 2025] [core:notice] [pid 3593:tid 256283379781664] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Jan 14 14:57:09.451445 2025] [authz_core:error] [pid 3595:tid 256283338928416] [client 127.0.0.1:43282] AH01630: client denied by server configuration: /mark/shared/maximus.cc.ua
+[Tue Jan 14 14:57:09.479863 2025] [authz_core:error] [pid 3595:tid 256283349414176] [client 127.0.0.1:43282] AH01630: client denied by server configuration: /mark/shared/maximus.cc.ua, referer: http://saraf.ddns.net/
+[Tue Jan 14 14:58:10.852808 2025] [authz_core:error] [pid 3595:tid 256283236167968] [client 127.0.0.1:46818] AH01630: client denied by server configuration: /mark/shared/maximus.cc.ua
+[Tue Jan 14 15:00:02.346088 2025] [authz_core:error] [pid 3596:tid 256283349414176] [client 127.0.0.1:49926] AH01630: client denied by server configuration: /mark/shared/maximus.cc.ua
+[Tue Jan 14 15:05:30.647499 2025] [mpm_event:notice] [pid 3593:tid 256283379781664] AH00492: caught SIGWINCH, shutting down gracefully
+[Tue Jan 14 15:05:54.979339 2025] [mpm_event:notice] [pid 2552:tid 258061768523808] AH00489: Apache/2.4.58 (Ubuntu) OpenSSL/3.0.13 configured -- resuming normal operations
+[Tue Jan 14 15:05:54.981302 2025] [core:notice] [pid 2552:tid 258061768523808] AH00094: Command line: '/usr/sbin/apache2'
